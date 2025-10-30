@@ -1,6 +1,7 @@
 # Statistics Project 1 – Regression and Model Evaluation  
 
-Performed regression, correlation, and residual analysis on real-world data to explore variable relationships and model accuracy.  
+Performed regression, correlation, and residual analysis on real-world data to explore variable relationships and model accuracy.
+Data source omitted due to size.
 
 ## Key Features
 - Built regression models and assessed significance using correlation and residuals.
